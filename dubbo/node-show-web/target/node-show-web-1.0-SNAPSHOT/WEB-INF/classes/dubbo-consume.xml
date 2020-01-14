@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dubbo="http://dubbo.apache.org/schema/dubbo"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://dubbo.apache.org/schema/dubbo http://dubbo.apache.org/schema/dubbo/dubbo.xsd">
+    <!--声明服务的名称-->
+    <dubbo:application name="node-show-web"/>
+    <!--声明要使用的远程接口
+        check:检查项，dubbo默认在消费者启动时，要检查提供者是否存在，不存在项目不能启动，报错。
+    -->
+    <dubbo:reference interface="com.goodluncky.service.UserInfoService" id="userService"
+                     registry="N/A" url="dubbo://localhost:20881" check="false"/>
+
+    <dubbo:reference interface="com.goodluncky.service.OrderService" id="orderService"
+                     registry="N/A" url="dubbo://localhost:20882" check="false"/>
+    <!--声明自定义的service-->
+    <bean id="shopService" class="com.goodluncky.service.impl.ShopServiceImpl">
+        <property name="orderService" ref="orderService"/>
+        <property name="userInfoService" ref="userService"/>
+    </bean>
+</beans>

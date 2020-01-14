@@ -1,0 +1,16 @@
+link-orderservice-provider:dubbo的服务提供着，提供接口，让消费者调用
+
+实现步奏
+1.新建  maven
+2.加入依赖
+ 1）spring
+ 2)dubbo
+3.新建保存数据的类Order,实现序列化接口
+4.新建业务接口OrderService,定义方法createOrder
+5.新建业务接口的实现类，实现 createOrder()
+6.新建spring的配置文件，通过容器创建和管理对象
+ 1）声明dubbo的服务名称
+ 2）声明服务的接口，暴露接口
+ 3）声明服务接口的实现类对象
+ 7.新建测试类，测试spring的配置
+ 8.把服务提供这的jar 安装到本地的maven仓库

@@ -1,0 +1,4 @@
+com\goodluncky\domain\Address.class
+com\goodluncky\domain\Order.class
+com\goodluncky\service\OrderService.class
+com\goodluncky\service\UserInfoService.class
