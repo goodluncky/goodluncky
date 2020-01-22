@@ -6,14 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="webcrawler" />
-        <module name="tools" />
+        <module name="hrm_common" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="tools" target="1.7" />
-      <module name="web-crawler" target="1.5" />
-      <module name="webcrawler" target="1.7" />
-    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="hrm_common" options="-parameters" />
+    </option>
   </component>
 </project>

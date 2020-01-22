@@ -1,37 +1,128 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73d3aa05-8c70-4c74-a8ba-7f6c835a7ca4" name="Default Changelist" comment="" />
+    <list default="true" id="73d3aa05-8c70-4c74-a8ba-7f6c835a7ca4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_dubbo_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_10_6_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_client_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_framework_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_yetus_audience_annotations_0_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_5_4_beta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_netty_netty_3_2_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_12_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_16_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_16_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_16_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_16_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_16_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_16_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_16_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__taglibs_standard_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hrm/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hrm/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hrm/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hrm/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hrm/hrm_common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hrm/hrm_parent.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hrm/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/src/main/java/com/goodluncky/utils/DateUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/src/main/java/com/goodluncky/utils/StringUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/src/main/java/com/goodluncky/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/src/main/java/com/goodluncky/CrawTextThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/src/main/java/com/goodluncky/CrawlText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/src/test/java/com/goodluncky/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcrawler/webcrawler.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tools/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/tools.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tools/tools.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\goodluncky\.idea" />
+      </set>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="F:\repo" />
-        <option name="mavenHome" value="$PROJECT_DIR$/../apache-maven-3.6.2" />
-        <option name="userSettingsFile" value="E:\apache-maven-3.6.2\conf\settingsperson.xml" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.2\conf\settingsperson.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
   <component name="ProjectId" id="1WITdjdZVj54j6wHnROaq9fil0Y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/webcrawler" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15429688" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.goodluncky.App" />
+      <module name="webcrawler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.goodluncky.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -58,40 +149,76 @@
       <workItem from="1578836200015" duration="340000" />
       <workItem from="1578881403723" duration="645000" />
       <workItem from="1578900922509" duration="84000" />
+      <workItem from="1579000793691" duration="1321000" />
+      <workItem from="1579002154530" duration="2231000" />
+      <workItem from="1579663871386" duration="2511000" />
     </task>
+    <task id="LOCAL-00001" summary="我的代码练习，初始化">
+      <created>1579001013157</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579001013158</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="我的代码练习，初始化" />
+    <option name="LAST_COMMIT_MESSAGE" value="我的代码练习，初始化" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1579000835543">
+    <state x="534" y="255" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579002622287">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1579000835543" />
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1578836541289">
+    <state x="534" y="255" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1579002622287" />
+    <state x="223" y="0" key="CommitChangelistDialog2" timestamp="1579001008032">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578836541289" />
-    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1578836541289">
+    <state x="223" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579001008032" />
+    <state x="463" y="112" key="FileChooserDialogImpl" timestamp="1579665623612">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1578836541289" />
-    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1578836541289">
+    <state x="463" y="112" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1579665623612" />
+    <state x="546" y="261" key="Github.ShareDialog" timestamp="1579001028995">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1578836541289" />
-    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1578836541289">
+    <state x="546" y="261" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1579001028995" />
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1579015521636">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1578836541289" />
-    <state x="186" y="0" key="SettingsEditor" timestamp="1578836390622">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579015521636" />
+    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1579015521636">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1578836390622" />
-    <state x="78" y="92" key="new project wizard" timestamp="1578901002325">
+    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579015521636" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1579015521635">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="78" y="92" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1578901002325" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579015521635" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1579015521636">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579015521636" />
+    <state x="346" y="66" key="NewModule_or_Project.wizard" timestamp="1579002339970">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="66" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1579002339970" />
+    <state x="186" y="0" key="SettingsEditor" timestamp="1579002342582">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1579002342582" />
+    <state x="21" y="71" key="new project wizard" timestamp="1579665683968">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="21" y="71" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1579665683968" />
+    <state x="339" y="157" key="run.anything.popup" timestamp="1579664777841">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="157" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1579664777841" />
   </component>
 </project>
