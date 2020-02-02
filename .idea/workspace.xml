@@ -2,54 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73d3aa05-8c70-4c74-a8ba-7f6c835a7ca4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_dubbo_2_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_10_6_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_client_4_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_framework_4_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_yetus_audience_annotations_0_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_5_4_beta.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_netty_netty_3_2_5_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_12_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_16_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_16_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_16_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_16_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_16_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_16_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_16_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__taglibs_standard_1_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hrm/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hrm/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hrm/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hrm/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hrm/hrm_common/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hrm/hrm_parent.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hrm/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/src/main/java/com/goodluncky/utils/DateUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/src/main/java/com/goodluncky/utils/StringUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/src/main/java/com/goodluncky/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/src/main/java/com/goodluncky/CrawTextThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/src/main/java/com/goodluncky/CrawlText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/src/test/java/com/goodluncky/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webcrawler/webcrawler.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hrm/hrm_common/src/main/java/com/hrm/common/entity/PageResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hrm/hrm_common/src/main/java/com/hrm/common/entity/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hrm/hrm_common/src/main/java/com/hrm/common/entity/ResultCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hrm/hrm_common/src/main/java/com/hrm/common/utils/IdWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hrm/hrm_common_model/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hrm/hrm_common_model/src/main/java/com/hrm/domain/company/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hrm/hrm_company/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hrm/hrm_company/src/main/java/com/hrm/company/CompanyApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hrm/hrm_company/src/main/java/com/hrm/company/controller/CompanyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hrm/hrm_company/src/main/java/com/hrm/company/dao/CompanyDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hrm/hrm_company/src/main/java/com/hrm/company/service/CompanyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hrm/hrm_company/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hrm/hrm_company/src/test/com/hrm/company/CompanyDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc/springmvc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc/src/main/webapp/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tools/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools/tools.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tools/tools.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hrm/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hrm/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hrm/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hrm/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hrm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hrm/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hrm/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hrm/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +129,9 @@
       <workItem from="1578900922509" duration="84000" />
       <workItem from="1579000793691" duration="1321000" />
       <workItem from="1579002154530" duration="2231000" />
-      <workItem from="1579663871386" duration="2511000" />
+      <workItem from="1579663871386" duration="2726000" />
+      <workItem from="1579773796213" duration="744000" />
+      <workItem from="1580221807837" duration="180000" />
     </task>
     <task id="LOCAL-00001" summary="我的代码练习，初始化">
       <created>1579001013157</created>
@@ -160,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579001013158</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2020-01-02">
+      <created>1579668631369</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579668631369</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,21 +156,22 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="我的代码练习，初始化" />
-    <option name="LAST_COMMIT_MESSAGE" value="我的代码练习，初始化" />
+    <MESSAGE value="2020-01-02" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020-01-02" />
   </component>
   <component name="WindowStateProjectService">
     <state x="534" y="255" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579002622287">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="534" y="255" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1579002622287" />
-    <state x="223" y="0" key="CommitChangelistDialog2" timestamp="1579001008032">
+    <state x="223" y="0" key="CommitChangelistDialog2" timestamp="1579668629010">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="223" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579001008032" />
-    <state x="463" y="112" key="FileChooserDialogImpl" timestamp="1579665623612">
+    <state x="223" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579668629010" />
+    <state x="463" y="112" key="FileChooserDialogImpl" timestamp="1580221926981">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="112" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1579665623612" />
+    <state x="463" y="112" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1580221926981" />
     <state x="546" y="261" key="Github.ShareDialog" timestamp="1579001028995">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -212,10 +200,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1579002342582" />
-    <state x="21" y="71" key="new project wizard" timestamp="1579665683968">
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1579668640118">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="21" y="71" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1579665683968" />
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1579668640118" />
+    <state x="0" y="0" width="1366" height="728" key="new project wizard" timestamp="1580221929155">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" width="1366" height="728" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1580221929155" />
     <state x="339" y="157" key="run.anything.popup" timestamp="1579664777841">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

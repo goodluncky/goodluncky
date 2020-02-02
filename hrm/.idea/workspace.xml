@@ -2,59 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bed0e4ff-3b6b-4ad2-8883-73d15d2275e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_alibaba_dubbo_2_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_3_10_6_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apache_curator_curator_client_4_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apache_curator_curator_framework_4_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apache_yetus_audience_annotations_0_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_5_4_beta.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_jboss_netty_netty_3_2_5_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_jsoup_jsoup_1_12_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_aop_4_3_16_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_beans_4_3_16_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_context_4_3_16_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_core_4_3_16_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_expression_4_3_16_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_web_4_3_16_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_16_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__taglibs_standard_1_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hrm_common/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hrm_parent.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tools/src/main/java/com/goodluncky/utils/DateUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tools/src/main/java/com/goodluncky/utils/StringUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../webcrawler/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../webcrawler/src/main/java/com/goodluncky/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../webcrawler/src/main/java/com/goodluncky/CrawTextThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../webcrawler/src/main/java/com/goodluncky/CrawlText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../webcrawler/src/test/java/com/goodluncky/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../webcrawler/webcrawler.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hrm_common/src/main/java/com/hrm/common/entity/PageResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hrm_common/src/main/java/com/hrm/common/entity/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hrm_common/src/main/java/com/hrm/common/entity/ResultCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hrm_common/src/main/java/com/hrm/common/utils/IdWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hrm_common_model/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hrm_common_model/src/main/java/com/hrm/domain/company/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hrm_company/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hrm_company/src/main/java/com/hrm/company/CompanyApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hrm_company/src/main/java/com/hrm/company/controller/CompanyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hrm_company/src/main/java/com/hrm/company/dao/CompanyDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hrm_company/src/main/java/com/hrm/company/service/CompanyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hrm_company/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hrm_company/src/test/com/hrm/company/CompanyDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc/springmvc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc/src/main/webapp/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tools/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tools/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tools/tools.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../tools/tools.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -80,7 +66,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1Wjav3NI6LxjGSFk47PLoRcUx1z" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -88,12 +76,106 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="F:/sso2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/hrm_common/src/main/java/com/hrm/common/utils" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\goodluncky\hrm\hrm_common\src\main\java\com\hrm\common\utils" />
+      <recent name="E:\goodluncky\hrm\hrm_common\src\main\java\com\hrm\common\entity" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CompanyApplication">
+    <configuration name="Company" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hrm.domain.company.Company" />
+      <module name="hrm_common_model" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hrm.domain.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompanyDaoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hrm_company" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.goodluncky.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.goodluncky.company" />
+      <option name="MAIN_CLASS_NAME" value="com.goodluncky.company.CompanyDaoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompanyDaoTest.test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hrm_company" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hrm.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hrm.company" />
+      <option name="MAIN_CLASS_NAME" value="com.hrm.company.CompanyDaoTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompanyDaoTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hrm_company" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.goodluncky.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.goodluncky.company" />
+      <option name="MAIN_CLASS_NAME" value="com.goodluncky.company.CompanyDaoTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompanyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="hrm_company" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hrm.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hrm.company.CompanyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.CompanyApplication" />
+        <item itemvalue="JUnit.CompanyDaoTest.test (1)" />
+        <item itemvalue="JUnit.CompanyDaoTest" />
+        <item itemvalue="JUnit.CompanyDaoTest.test" />
+        <item itemvalue="Application.Company" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -117,25 +199,87 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579665684712</updated>
-      <workItem from="1579665689144" duration="1816000" />
+      <workItem from="1579665689144" duration="2149000" />
+      <workItem from="1579696761710" duration="3084000" />
+      <workItem from="1579700407689" duration="405000" />
+      <workItem from="1579700855252" duration="2383000" />
+      <workItem from="1579766577830" duration="4578000" />
+      <workItem from="1579776645877" duration="1049000" />
+      <workItem from="1579933460742" duration="4312000" />
+      <workItem from="1580220923831" duration="11000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="0" y="49" key="#Assign_Data_Sources" timestamp="1579770526492">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="49" key="#Assign_Data_Sources/0.0.1366.728@0.0.1366.728" timestamp="1579770526492" />
+    <state x="275" y="24" key="#Notifications" timestamp="1579700804056">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="24" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1579700804056" />
+    <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579770540522">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1579770540522" />
+    <state x="534" y="255" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579771349746">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="534" y="255" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1579771349746" />
     <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1579665867589">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1579665867589" />
-    <state x="186" y="0" key="SettingsEditor" timestamp="1579667530974">
+    <state width="1322" height="161" key="GridCell.Tab.0.bottom" timestamp="1579945846405">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1579667530974" />
-    <state x="53" y="67" key="new project wizard" timestamp="1579668415653">
+    <state width="1322" height="161" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579945846405" />
+    <state width="1322" height="161" key="GridCell.Tab.0.center" timestamp="1579945846405">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="53" y="67" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1579668415653" />
+    <state width="1322" height="161" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579945846405" />
+    <state width="1322" height="161" key="GridCell.Tab.0.left" timestamp="1579945846405">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="161" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579945846405" />
+    <state width="1322" height="161" key="GridCell.Tab.0.right" timestamp="1579945846405">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="161" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579945846405" />
+    <state width="1322" height="161" key="GridCell.Tab.1.bottom" timestamp="1579945846405">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="161" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579945846405" />
+    <state width="1322" height="161" key="GridCell.Tab.1.center" timestamp="1579945846405">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="161" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1579945846405" />
+    <state width="1322" height="161" key="GridCell.Tab.1.left" timestamp="1579945846405">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="161" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1579945846405" />
+    <state width="1322" height="161" key="GridCell.Tab.1.right" timestamp="1579945846405">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="161" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1579945846405" />
+    <state x="213" y="21" key="Maven.ArtifactSearchDialog" timestamp="1579771371756">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="21" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1579771371756" />
+    <state x="186" y="0" key="SettingsEditor" timestamp="1579700794298">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1579700794298" />
+    <state x="53" y="67" key="new project wizard" timestamp="1579701047400">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="53" y="67" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1579701047400" />
   </component>
 </project>
