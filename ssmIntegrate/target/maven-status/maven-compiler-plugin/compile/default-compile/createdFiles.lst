@@ -1,0 +1,6 @@
+com\goodluncky\controller\StudentController.class
+com\goodluncky\interceptor\SimpleInterceptor.class
+com\goodluncky\service\IStudentService.class
+com\goodluncky\domain\Student.class
+com\goodluncky\mapper\IStudentDao.class
+com\goodluncky\service\impl\IStudentServiceImpl.class
